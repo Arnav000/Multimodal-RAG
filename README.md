@@ -9,6 +9,10 @@ This repository contains a full-stack Multimodal Retrieval-Augmented Generation 
 - **Chat API:** Uses context mapped from vector searches to answer user queries with `gemini-2.5-flash`.
 - **Frontend UI:** Interactive Chat and Document uploading natively in `index.html`.
 
+## Working
+
+https://github.com/user-attachments/assets/b9abde3c-690a-4888-b6ee-36525ac3b630
+
 ## Prerequisites
 
 - Python 3.9+
