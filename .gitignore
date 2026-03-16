@@ -1,0 +1,35 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific ignores
+pdfs/
+images/
+
+# Agent/AI folders
+.agent/
+.gemini/
+
+# Temporary / test scripts if not needed
+#1.py
+test_dim.py
+
+# OS generated files
+.DS_Store
+Thumbs.db
