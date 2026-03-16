@@ -1,0 +1,2 @@
+# Mark index.html as vendored so GitHub Linguist excludes it from language stats
+index.html linguist-vendored
